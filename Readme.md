@@ -10,4 +10,5 @@
   - straight pipe for bad documents (OCR integration)
   - bent pipe for COT(Chain of Thought) and Chroma (Vector DB)
   - assimilation into enhanced RAG
-    
+    *With enough funding and prospective evaluation who knows, maybe a finetune?
+      2405.00732 - arxiv paper that gives hope for small models, good eval of previous gen models(before LLAMA3 and phi-3)
